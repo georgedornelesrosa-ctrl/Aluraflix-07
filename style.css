@@ -1,5 +1,20 @@
 body {
     background-color: rgb(4, 63, 210);
-
-
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+} 
+h1{
+ color: coral;
+ font-size: 40px;
+}
+p{
+    font-size: 25px;
+}
+header{
+    border-bottom: black ;
+    margin: 2px
+    padding: 10px
+    color: blue
+    
 }
